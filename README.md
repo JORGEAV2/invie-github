@@ -1,2 +1,2 @@
 # invie-github
-Estudio de github
+Tus mejores guitarras invie-sibles by @platzi
